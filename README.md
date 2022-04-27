@@ -8,7 +8,7 @@ I'm a third-year computer science student learning about web-based technologies,
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sanketdhengre@gmail.com](mailto:sanketdhengre@gmail.com)
-* 🧠  I'm learning REACT
+* 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Passionate about Machine Learning and Computer Science
 
