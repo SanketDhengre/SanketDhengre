@@ -4,7 +4,7 @@ Hi 👋 My name is Sanket S. Dhengre
 Web Developer
 -------------
 
-I'm a third-year computer science student learning about web-based technologies, and building new web-based applications.
+I'm a Final-year computer science student learning about web-based technologies, and building new web-based applications.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sanketdhengre@gmail.com](mailto:sanketdhengre@gmail.com)
