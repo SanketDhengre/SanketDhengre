@@ -10,11 +10,12 @@ Motivated final-year Computer Science student seeking opportunities to leverage 
 *   ✉️  You can contact me at [sanketdhengre@gmail.com](mailto:sanketdhengre@gmail.com)
 *   🧠  I'm learning Full Stack Web Development
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Passionate about Machine Learning and Computer Science<a href="https://www.github.com/SanketDhengre" target="_blank" rel="noreferrer"><img
+*   ⚡  Passionate about Machine Learning and Computer Science
+<a href="https://www.github.com/SanketDhengre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/SanketDhengre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SanketDhengre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
-                ### Skills 
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
