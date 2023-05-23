@@ -11,7 +11,7 @@ Motivated final-year Computer Science student seeking opportunities to leverage 
 *   🧠  I'm learning Full Stack Web Development
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Passionate about Machine Learning and Computer Science
-<a href="https://www.github.com/SanketDhengre" target="_blank" rel="noreferrer"><img
+* <a href="https://www.github.com/SanketDhengre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/SanketDhengre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SanketDhengre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
