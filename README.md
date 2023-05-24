@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/SanketDhengre/SanketDhengre/assets/83276393/d5658346-2f20-4de9-9aed-9cd4ed0f11e8)
+
+
 Hi 👋 My name is Sanket S. Dhengre
 ==================================
 
@@ -13,7 +16,8 @@ Motivated final-year Computer Science student seeking opportunities to leverage 
 * ⚡  Passionate about Machine Learning and Computer Science
 
 <a href="https://www.github.com/SanketDhengre" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SanketDhengre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SanketDhengre" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SanketDhengre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/SanketDhengre" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
@@ -49,15 +53,30 @@ src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-
 
 <a href="http://www.github.com/SanketDhengre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketDhengre&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SanketDhengre"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SanketDhengre&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/SanketDhengre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketDhengre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanketDhengre&theme=darkhub&no-frame=true&no-bg=false&margin-w=5)
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SanketDhengre/Web-Development" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=Web-Development&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SanketDhengre/React-Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=React-Weather-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SanketDhengre/Web-Development" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=Web-Development&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/SanketDhengre/React-Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=React-Weather-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-<br /><br /><br />
+<br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/SanketDhengre/Tailwind-CSS-Apple-Landing-Page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=Tailwind-CSS-Apple-Landing-Page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SanketDhengre/College-Portal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=College-Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/SanketDhengre/Tailwind-CSS-Apple-Landing-Page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=Tailwind-CSS-Apple-Landing-Page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/SanketDhengre/College-Portal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanketDhengre&repo=College-Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+### Random Jokes
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+[![](https://visitcount.itsvg.in/api?id=SanketDhengre&icon=0&color=0)](https://visitcount.itsvg.in)
 
