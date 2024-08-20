@@ -6,7 +6,7 @@ Hi 👋 My name is Sanket S. Dhengre
 Full Stack Developer
 --------------------
 
-Motivated final-year Computer Science student seeking opportunities to leverage technical skills and knowledge in a challenging software development role. Dedicated to contributing to the success of projects through innovative problem-solving and a passion for creating efficient and user-friendly applications.
+Motivated software development professional with experience in creating efficient and user-friendly applications. Eager to leverage technical skills and industry knowledge in a challenging role, contributing to the success of projects through innovative problem-solving and a passion for delivering high-quality solutions.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sanketdhengre@gmail.com](mailto:sanketdhengre@gmail.com)
