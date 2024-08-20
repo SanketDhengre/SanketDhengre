@@ -45,6 +45,10 @@ src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sanketdhengre?ext=heatmap)
 
+<b>My GeeksforGeeks Stats</b>
+
+[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sanketd13)](https://www.geeksforgeeks.org/user/sanketd13/)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SanketDhengre"><img src="https://github-readme-stats.vercel.app/api?username=SanketDhengre&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SanketDhengre's GitHub stats" /></a>
