@@ -41,15 +41,15 @@ src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-
 
 ### Badges
 
-<b>My Leetcode Stats</b>
+<b>My Leetcode Stats :</b>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sanketdhengre?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sanketdhengre?ext=heatmap)](https://leetcode.com/u/sanketdhengre/)
 
-<b>My GeeksforGeeks Stats</b>
-
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sanketd13)](https://auth.geeksforgeeks.org/user/sanketd13/practice/)
+<b>My GeeksforGeeks Stats :</b>
 
 <b>🥇 Institute Rank 1 on GeeksforGeeks.</b>
+
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sanketd13)](https://auth.geeksforgeeks.org/user/sanketd13/practice/)
 
 <b>My GitHub Stats</b>
 
