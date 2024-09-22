@@ -47,7 +47,7 @@ src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-
 
 <b>My GeeksforGeeks Stats</b>
 
-[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sanketd13)](https://www.geeksforgeeks.org/user/sanketd13/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sanketd13)](https://auth.geeksforgeeks.org/user/sanketd13/practice/)
 
 <b>🥇 Institute Rank 1 on GeeksforGeeks.</b>
 
