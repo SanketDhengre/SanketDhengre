@@ -23,10 +23,6 @@
   <a href="https://www.twitter.com/SanketDhengre" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/SanketDhengre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=SanketDhengre&icon=0&color=0" />
-  </a>
 </div>
 
 
